@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>form</title>
+</head>
+<body>
+<form>
+<div>
+<label>name</label>
+<input>
+<label>password</label>
+<input>
+<label>button</label>
+<input>
+</body>
+</html>
+
